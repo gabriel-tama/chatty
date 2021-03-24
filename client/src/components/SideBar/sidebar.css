@@ -1,0 +1,26 @@
+.sidebar {
+	display: flex;
+	flex-direction: column;
+	height: 50%;
+}
+
+.sidebar h1 {
+	font-size: medium;
+	color: whitesmoke;
+}
+
+.listonline {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.listonline h3 {
+	font-size: small;
+	color: whitesmoke;
+}
+
+.listonline img {
+	margin-right: 5px;
+	width: 6px;
+	height: 6px;
+}
